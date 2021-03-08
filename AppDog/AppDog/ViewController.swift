@@ -9,7 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    @IBOutlet weak var textAge: UILabel!
+    
     @IBOutlet weak var legendaResultado: UILabel!
   
     @IBOutlet weak var campoIdadeCachorro: UITextField!

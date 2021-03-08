@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "572B720F-6EDE-43B5-95A5-EBAD6B321746"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7509103E-B905-4825-B2D8-8F704AD9940A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Listadetarefas/CadastroTarefaViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CadastroTarefaViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7509103E-B905-4825-B2D8-8F704AD9940A - ee4b30dd7b6240e9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Listadetarefas.CadastroTarefaViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Listadetarefas.CadastroTarefaViewController"
+                  moduleName = "Listadetarefas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Projects/johnny/Listadetarefas/Listadetarefas/CadastroTarefaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "7509103E-B905-4825-B2D8-8F704AD9940A - f7670fddaa5afa42"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Listadetarefas.CadastroTarefaViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Listadetarefas.CadastroTarefaViewController"
+                  moduleName = "Listadetarefas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Projects/johnny/Listadetarefas/Listadetarefas/CadastroTarefaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "7509103E-B905-4825-B2D8-8F704AD9940A - cbe59da50d2d6694"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Listadetarefas.CadastroTarefaViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Listadetarefas.CadastroTarefaViewController&gt;"
+                  moduleName = "Listadetarefas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Projects/johnny/Listadetarefas/Listadetarefas/CadastroTarefaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "7509103E-B905-4825-B2D8-8F704AD9940A - b24983515a311931"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Listadetarefas.CadastroTarefaViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Listadetarefas.CadastroTarefaViewController&gt;"
+                  moduleName = "Listadetarefas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Projects/johnny/Listadetarefas/Listadetarefas/CadastroTarefaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "7509103E-B905-4825-B2D8-8F704AD9940A - dca6e1dfc9cff648"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Listadetarefas.CadastroTarefaViewController.__deallocating_deinit"
+                  moduleName = "Listadetarefas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Projects/johnny/Listadetarefas/Listadetarefas/CadastroTarefaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EC36145-FB7F-4EE0-B7D7-347F247CFBD7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Listadetarefas/CadastroTarefaViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
